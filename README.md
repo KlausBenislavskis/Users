@@ -94,7 +94,6 @@ Run both PostgreSQL and the API in containers.
 2. **Access the API**
    - Swagger UI: `http://localhost:5000/swagger`
    - HTTP endpoint: `http://localhost:5000`
-   - HTTPS endpoint: `https://localhost:5001`
 
 3. **View logs**
    ```bash
